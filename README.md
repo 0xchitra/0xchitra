@@ -1,14 +1,12 @@
 # Hi, I'm Chitra 👋
 
-> Building AI-powered full-stack applications.
-
 ## 🚀 About Me
 
-* 💻 Remote Full-Stack Developer
+* 💻 Full-Stack Developer(Remote) 
 * 🤖 AI-powered MERN Stack
 * 🌱 Always learning and building in public
-* ⚡ Interested in Web Development, AI, Open Source, and Automation
-* 🎯 Goal: Build products that solve real-world problems
+* ⚡ Interested in Web Development, AI & ML, Open Source, and Automation
+* 🎯 Goal: Build products that solve real world problems
 
 ---
 
@@ -65,8 +63,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=0xchitra&hide_border=true"/>
 </p>
-
-## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xchitra/0xchitra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
