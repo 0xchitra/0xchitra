@@ -1,10 +1,14 @@
-# Hi, I'm Chitra 👋
+<p>
+
+# Hi, I'm Chitra 👋 <br> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&vCenter=true&width=750&lines=Chittaranjan+Bora;Full+Stack+Developer;Maker+||+Builder;AI+ML+Enthusiast;Web3+Explorer;Always+Learning+New+Technologies"/>
+
+</p>
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer
-- ⚛️ Building AI-powered MERN applications
-- 🤝 Passionate about clean code, collaboration, and continuous learning
+- 💻 **Full Stack Developer**
+- 💡 Interested in **AI + Web Technologies** 
+- 🤝 Passionate about **clean code, collaboration, and continuous learning**
 - 🌍 Open to remote opportunities worldwide
 - 🎯 Building products that solve real world problems
 
@@ -22,22 +26,18 @@
 
 <p>
 
-### Languages
-* JavaScript, TypeScript, Python, HTML5 ,CSS3 ,SQL
+> Primary IDE : VS Code <br>
+AI Coding Tools : Cursor, Claude Code, ChatGPT
 
-### Frontend
-* React, Next.js, Tailwind CSS
+### Languages : JavaScript, TypeScript, Python, HTML5, CSS3, SQL
 
-### Backend
-* Node.js, Express.js
+### Frontend : React, Next.js, Tailwind CSS
 
-### Database
-* MongoDB, PostgreSQL
+### Backend : Node.js, Express.js
 
-### Tools
-* Git, GitHub, Notion, Vercel, Postman, Linux
-* Primary IDE: VS Code
-* AI Coding Tools: Cursor, Claude Code, ChatGPT
+### Database : MongoDB, PostgreSQL
+
+### Tools : Git, GitHub, Notion, Vercel, Postman, Linux
 
 </p>
 
@@ -45,9 +45,9 @@
 
 ## 📚 Currently Learning
 
-* AI-powered MERN Stack
+* **AI-powered MERN Stack**
 * Next.js
-* System Design
+* **System Design**
 * Clean Architecture
 * Docker
 
@@ -57,11 +57,9 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xchitra&hide_border=true"/>
-</p>
-
-<p align="center">
+  <img src="https://streak-stats.demolab.com?user=0xchitra&theme=dark&hide_border=true"/> <br>
   <img src="https://raw.githubusercontent.com/0xchitra/0xchitra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </p>
 
 ---
