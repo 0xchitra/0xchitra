@@ -22,15 +22,22 @@
 
 <p>
 
-#### Languages : JavaScript, TypeScript, Python, HTML5 ,CSS3 ,SQL
-#### Frontend : React, Next.js, Tailwind CSS
-#### Backend : Node.js, Express.js
-#### Database : MongoDB, PostgreSQL
-#### Tools : Git, GitHub, VsCode, Notion, Postman, Linux
+### Languages
+* JavaScript, TypeScript, Python, HTML5 ,CSS3 ,SQL
 
-Primary IDE: VS Code
+### Frontend
+* React, Next.js, Tailwind CSS
 
-AI Coding Tools: Cursor, Claude Code, ChatGPT
+### Backend
+* Node.js, Express.js
+
+### Database
+* MongoDB, PostgreSQL
+
+### Tools
+* Git, GitHub, Notion, Vercel, Postman, Linux
+* Primary IDE: VS Code
+* AI Coding Tools: Cursor, Claude Code, ChatGPT
 
 </p>
 
