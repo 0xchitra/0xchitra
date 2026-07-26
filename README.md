@@ -2,48 +2,37 @@
 
 ## 🚀 About Me
 
-* 💻 Full-Stack Developer(Remote) 
-* 🤖 AI-powered MERN Stack
-* 🌱 Always learning and building in public
-* ⚡ Interested in Web Development, AI & ML, Open Source, and Automation
-* 🎯 Goal: Build products that solve real world problems
+- 💻 Full-Stack Developer
+- ⚛️ Building AI-powered MERN applications
+- 🤝 Passionate about clean code, collaboration, and continuous learning
+- 🌍 Open to remote opportunities worldwide
+- 🎯 Building products that solve real world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,react,nodejs,express,mongodb,postgres,git,github,vscode,notion,postman,linux,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,react,nodejs,express,mongodb&perline=10" />
 </p>
-<table>
-<tr>
 
-### Languages
-- JavaScript, TypeScript, Python, HTML5 ,CSS3 ,SQL
+<p align="center">
+  <img  src="https://skillicons.dev/icons?i=postgres,git,github,vscode,notion,vercel,postman,linux,docker&perline=9" />
+</p>
 
-</td>
+<p>
 
-### Frontend
-- React, Next.js, Tailwind CSS
+#### Languages : JavaScript, TypeScript, Python, HTML5 ,CSS3 ,SQL
+#### Frontend : React, Next.js, Tailwind CSS
+#### Backend : Node.js, Express.js
+#### Database : MongoDB, PostgreSQL
+#### Tools : Git, GitHub, VsCode, Notion, Postman, Linux
 
-</td>
+Primary IDE: VS Code
 
-### Backend
-- Node.js, Express.js
+AI Coding Tools: Cursor, Claude Code, ChatGPT
 
-</td>
-
-### Database
-- MongoDB, PostgreSQL
-
-</td>
-
-### Tools
-- Git, GitHub, VsCode, Notion, Postman, Linux
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
@@ -72,6 +61,7 @@
 
 ## 🤝 Connect With Me
 
+* Mail: withchitra@gmail.com
 * GitHub: https://github.com/0xchitra
 * LinkedIn: https://www.linkedin.com/in/chittaranjanbora/
 * X (Twitter): https://x.com/0xchitra
@@ -80,6 +70,6 @@
 
 ---
 
-## 💡 Philosophy
-
-> Learn. Build. Share. Repeat.
+<p align="center"> 
+Learn. Build. Ship. Repeat.
+</p>
