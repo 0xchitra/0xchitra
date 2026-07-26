@@ -29,20 +29,15 @@
 > Primary IDE : VS Code <br>
 AI Coding Tools : Cursor, Claude Code, ChatGPT
 
-### Languages :
-**JavaScript, TypeScript, Python, HTML5, CSS3, SQL**
+### Languages : JavaScript, TypeScript, Python, HTML5, CSS3, SQL
 
-### Frontend :
-React, Next.js, Tailwind CSS**
+### Frontend : React, Next.js, Tailwind CSS
 
-### Backend :
-**Node.js, Express.js**
+### Backend : Node.js, Express.js
 
-### Database :
-**MongoDB, PostgreSQL**
+### Database : MongoDB, PostgreSQL
 
-### Tools :
-**Git, GitHub, Notion, Vercel, Postman, Linux**
+### Tools : Git, GitHub, Notion, Vercel, Postman, Linux
 
 </p>
 
