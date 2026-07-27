@@ -55,11 +55,14 @@ AI Coding Tools : Cursor, Claude Code, ChatGPT
 
 ## 📈 GitHub Stats
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=0xchitra&theme=dark&hide_border=true"/> <br>
-  <img src="https://raw.githubusercontent.com/0xchitra/0xchitra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xchitra/0xchitra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xchitra/0xchitra/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/0xchitra/0xchitra/output/github-snake.svg" />
+</picture>
 </p>
 
 ---
