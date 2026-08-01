@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-- 💻 **Full Stack Developer**
-- 💡 Interested in **AI + Web Technologies** 
-- 🤝 Passionate about **clean code, collaboration, and continuous learning**
-- 🌍 Open to remote opportunities worldwide
-- 🎯 Building products that solve real world problems
+<p>
 
+I enjoy bringing my ideas to life.
+Currently, I'm actively working in *Full-Stack Development* while learning *AI & Machine Learning.* <br>
+Beyond coding, I enjoy studying *human nature and psychology* , exploring *Web3*, and occasionally keeping an eye out for promising airdrop opportunities. 
+</P>
 ---
 
 ## 🛠️ Tech Stack
