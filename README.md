@@ -9,7 +9,7 @@
 <p>
 
 I enjoy bringing my ideas to life.
-Currently, I'm actively working in **Full-Stack Development** while learning **AI & Machine Learning.** <br>
+Currently, I'm working as a **Full-Stack Developer** while actively learning **AI & Machine Learning stuffs.** <br>
 Beyond coding, I enjoy studying **human nature and psychology** , exploring **Web3**, and occasionally keeping an eye out for promising airdrop opportunities.
 
 </P>
