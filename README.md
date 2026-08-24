@@ -20,12 +20,10 @@ Beyond coding, I enjoy studying **human nature and psychology** , exploring **We
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,react,nodejs,express,mongodb&perline=10" />
-
 </p>
 
 <p align="center">
   <img  src="https://skillicons.dev/icons?i=postgres,git,github,vscode,notion,vercel,postman,linux,docker&perline=9" />
-
 </p>
 
 <p>
@@ -42,7 +40,6 @@ AI Coding Tools : Cursor, Claude Code, ChatGPT
 ### Database : MongoDB, PostgreSQL
 
 ### Tools : Git, GitHub, Notion, Vercel, Postman, Linux
-
 </p>
 
 ---
