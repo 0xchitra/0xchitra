@@ -79,7 +79,7 @@ AI Coding Tools : Cursor, Claude Code, ChatGPT
 * LinkedIn: <a href="https://www.linkedin.com/in/chittaranjanbora/">Chittaranjan Bora</a>
 * X (Twitter): <a href="https://x.com/chitrabit">chitrabit</a>
 * Thread: <a href="https://www.threads.com/@chitrabit">chitrabit</a>
-* BlueSky: <a href="https://bsky.app/profile/0xchitra.bsky.social">0xchitra.bsky.social</a> 
+* BlueSky: <a href="https://bsky.app/profile/chitrabit.bsky.social">chitrabit.bsky.social</a> 
 
 ---
 
