@@ -75,10 +75,10 @@ AI Coding Tools : Cursor, Claude Code, ChatGPT
 ## 🤝 Connect With Me
 
 * Mail: <a href="mailto:withchitra@gmail.com">withchitra@gmail.com</a>
-* Github: <a href="https://github.com/0xchitra">0xchitra</a>
+* Github: <a href="https://github.com/chitrabit">chitrabit</a>
 * LinkedIn: <a href="https://www.linkedin.com/in/chittaranjanbora/">Chittaranjan Bora</a>
-* X (Twitter): <a href="https://x.com/0xchitra">0xchitra</a>
-* Thread: <a href="https://www.threads.com/@0xchitra">0xchitra</a>
+* X (Twitter): <a href="https://x.com/chitrabit">chitrabit</a>
+* Thread: <a href="https://www.threads.com/@chitrabit">chitrabit</a>
 * BlueSky: <a href="https://bsky.app/profile/0xchitra.bsky.social">0xchitra.bsky.social</a> 
 
 ---
